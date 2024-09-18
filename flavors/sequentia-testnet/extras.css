@@ -7,10 +7,6 @@
     display: none;
 }
 
-.main-nav li.active a{
-    border: 1px solid rgba(168, 184, 201, 1);
-}
-
 .sub-nav .active {
     border-bottom: solid 2px rgba(168, 184, 201, 1);
 }
@@ -31,12 +27,8 @@
     display: flex;
 }
 
-.main-nav li a{
-    color: #78838e;
-}
-
 .nav-link:hover{
-    color: white !important;
+    color: #FFBB00 !important;
 }
 
 .sub-navbar:before {
