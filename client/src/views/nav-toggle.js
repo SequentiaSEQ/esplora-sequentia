@@ -43,7 +43,7 @@ export default (t, theme, page) =>
                 <img  className="lightmode" src={`${staticRoot}img/icons/linux_dark.png`} />
                 <span>Linux</span>
               </a>
-              <a href="https://blockstream.com/green/" target="_blank">+4 more</a>
+              <a href="" target="_blank">+4 more</a>
             </div>
         </div>
       </div>
